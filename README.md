@@ -12,7 +12,7 @@
  
  🌱 Learning **Python, Discrete Mathematical Structures, Databases Systems, Data Structures and Algorithms, Operating Systems**
 
- 💬 Ask me about **Node.js, Angular, Java... or anything [here](https://github.com/prabhutejapamula/prabhutejapamula/issues)**
+ 💬 Ask me about **Node.js, Angular, Java... or anything [here](https://github.com/prabhu-tejaa/prabhu-tejaa/issues)**
 
  ⚡ Fun fact **Life’s short, so live it up! Nothing really matters in the end, we’re all stardust anyway**
 
@@ -23,7 +23,7 @@
   <a href="https://leetcode.com/u/prabhutejapamula/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
   </a>
-  <a href="https://www.linkedin.com/in/prabhu-teja-pamula/" target="_blank">
+  <a href="https://www.linkedin.com/in/prabhu-tejaa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /><br>
   </a>
 </div>
