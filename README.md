@@ -18,7 +18,7 @@
  </div>
 <br/>
 <div align="center"> 
-  <a href="https://leetcode.com/u/prabhutejapamula/" target="_blank">
+  <a href="https://leetcode.com/u/prabhu-tejaa/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/prabhu-tejaa/" target="_blank">
@@ -39,4 +39,5 @@
   <img style="width: 22%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=prabhutejapamula&langs_count=8&layout=demo&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img style="width: 35%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=prabhutejapamula&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
 </div>
+
 
