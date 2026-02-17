@@ -9,8 +9,6 @@
  <div align="left">
    
  🔭 Currently pursuing Master’s in Computer Applications at **Vellore Institute of Technology**
- 
- 🌱 Learning **Python, Discrete Mathematical Structures, Databases Systems, Data Structures and Algorithms, Operating Systems**
 
  💬 Ask me about **Node.js, Angular, Java... or anything [here](https://github.com/prabhu-tejaa/prabhu-tejaa/issues)**
 
@@ -41,3 +39,4 @@
   <img style="width: 22%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=prabhutejapamula&langs_count=8&layout=demo&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img style="width: 35%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=prabhutejapamula&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
 </div>
+
